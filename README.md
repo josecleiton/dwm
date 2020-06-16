@@ -1,4 +1,10 @@
-# Luke's build of dwm
+# Cleiton's build of dwm fork of Luke's build
+
+## Additional patches
+
+- Focus urgent (Ctrl+Shift+u)
+- Systray
+- Color bar
 
 ## FAQ
 
